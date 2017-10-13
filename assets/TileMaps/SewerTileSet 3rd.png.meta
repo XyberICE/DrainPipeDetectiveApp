@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "d5482142-a15a-4d89-bba4-87975c550f9d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "SewerTileSet 3rd": {
+      "ver": "1.0.3",
+      "uuid": "a0176981-cee1-4148-ae0c-dbe9558502cf",
+      "rawTextureUuid": "d5482142-a15a-4d89-bba4-87975c550f9d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -3.5,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 761,
+      "height": 192,
+      "rawWidth": 768,
+      "rawHeight": 192,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

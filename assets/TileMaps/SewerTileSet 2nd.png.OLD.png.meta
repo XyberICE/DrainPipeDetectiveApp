@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "c93f436b-ccc4-49c6-bd3b-a40d9893acac",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "SewerTileSet 2nd.png.OLD": {
+      "ver": "1.0.3",
+      "uuid": "462fee95-c2b2-4369-a80b-4bc65b5cc91f",
+      "rawTextureUuid": "c93f436b-ccc4-49c6-bd3b-a40d9893acac",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -3.5,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 761,
+      "height": 192,
+      "rawWidth": 768,
+      "rawHeight": 192,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
