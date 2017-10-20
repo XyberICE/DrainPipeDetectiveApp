@@ -726,10 +726,39 @@
     "runningFootstep3Audio": {
       "__uuid__": "729ea34d-b907-4cbb-9e56-7ad3aba21d36"
     },
+    "runningFootstep4Audio": {
+      "__uuid__": "c39ec7da-7a9e-4715-b8e1-7d3b7d8bce61"
+    },
+    "runningFootstep5Audio": {
+      "__uuid__": "381d63cd-2c60-4e2c-ad34-c1cc69d02a6a"
+    },
+    "runningFootstep6Audio": {
+      "__uuid__": "11db8e8b-caa1-4229-9520-ec57f373bffe"
+    },
+    "runningFootstep7Audio": {
+      "__uuid__": "263080ef-dc68-4ada-b140-38387efbc28b"
+    },
+    "ladderClimb1Audio": {
+      "__uuid__": "686b9c7b-9a22-4747-97e6-805992f59b9e"
+    },
+    "ladderClimb2Audio": {
+      "__uuid__": "2437cdb6-cf12-43e1-97ef-a279b2809424"
+    },
+    "ladderClimb3Audio": {
+      "__uuid__": "0af4c645-e113-427d-9741-b3379dd244c9"
+    },
+    "ladderClimb4Audio": {
+      "__uuid__": "6eb51146-d951-4cea-ae2a-024e6f021fe1"
+    },
+    "ladderClimb5Audio": {
+      "__uuid__": "1b5c6c01-44bd-4ea6-a44f-13329e8ee6b6"
+    },
     "footstepsAudio": [],
     "footstepsIndex": 0,
     "runningFootstepsAudio": [],
-    "runningFootstepsIndex": 0
+    "runningFootstepsIndex": 0,
+    "ladderClimbAudio": [],
+    "ladderClimbIndex": 0
   },
   {
     "__type__": "d9adcVyVIlNuJbnPZ5/S/pJ",

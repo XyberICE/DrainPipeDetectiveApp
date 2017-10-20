@@ -62,13 +62,51 @@ cc.Class({
 			default: null,
 			url: cc.AudioClip
 		},
+		runningFootstep4Audio: {
+			default: null,
+			url: cc.AudioClip
+		},
+		runningFootstep5Audio: {
+			default: null,
+			url: cc.AudioClip
+		},
+		runningFootstep6Audio: {
+			default: null,
+			url: cc.AudioClip
+		},
+		runningFootstep7Audio: {
+			default: null,
+			url: cc.AudioClip
+		},
+		ladderClimb1Audio: {
+			default: null,
+			url: cc.AudioClip
+		},
+		ladderClimb2Audio: {
+			default: null,
+			url: cc.AudioClip
+		},
+		ladderClimb3Audio: {
+			default: null,
+			url: cc.AudioClip
+		},
+		ladderClimb4Audio: {
+			default: null,
+			url: cc.AudioClip
+		},
+		ladderClimb5Audio: {
+			default: null,
+			url: cc.AudioClip
+		},
         footstepsAudio: [],
         footstepsIndex: 0,
 		runningFootstepsAudio: [],
 		runningFootstepsIndex: 0,
+		ladderClimbAudio: [],
+		ladderClimbIndex: 0,
     }),
     	// use this for initialization
-    onLoad: function () {
+    onLoad() {
         this.protagonistSpeed = cc.p(0, 0);
         	// Stop the walk cycle animation
         this.protagonistAnimation.play("Protagonist-Walking");
@@ -83,6 +121,16 @@ cc.Class({
 		this.runningFootstepsAudio[0] = this.runningFootstep1Audio;
 		this.runningFootstepsAudio[1] = this.runningFootstep2Audio;
 		this.runningFootstepsAudio[2] = this.runningFootstep3Audio;
+		this.runningFootstepsAudio[3] = this.runningFootstep4Audio;
+		this.runningFootstepsAudio[4] = this.runningFootstep5Audio;
+		this.runningFootstepsAudio[5] = this.runningFootstep6Audio;
+		this.runningFootstepsAudio[6] = this.runningFootstep7Audio;
+		
+		this.ladderClimbAudio[0] = this.ladderClimb1Audio;
+		this.ladderClimbAudio[1] = this.ladderClimb2Audio;
+		this.ladderClimbAudio[2] = this.ladderClimb3Audio;
+		this.ladderClimbAudio[3] = this.ladderClimb4Audio;
+		this.ladderClimbAudio[4] = this.ladderClimb5Audio;
     },
     moveProtagonist(velocity)
     {
@@ -270,19 +318,38 @@ cc.Class({
 	
 	
     // Randomly play one of three splash sound effects (called during animation events of the protagonist sprite)
-    playFootstep() {
+    playFootstep()
+	{
         this.footstepsIndex++;
-        if (this.footstepsIndex >= 5)
+        if (this.footstepsIndex >= this.footstepsAudio.length)
             this.footstepsIndex = 0;
         var footstepSoundId = cc.audioEngine.playEffect(this.footstepsAudio[this.footstepsIndex], false, .06);
     },
 	
 	playRunningFootstep()
 	{
-		this.runningFootstepsIndex++;
-		if (this.runningFootstepsIndex >= 3)
-			this.runningFootstepsIndex = 0;
-		var footstepSoundId = cc.audioEngine.playEffect(this.runningFootstepsAudio[this.runningFootstepsIndex], false, .06);
+		var newRunningFootstepsIndex;
+		do {
+			newRunningFootstepsIndex = Math.floor(Math.random() * this.runningFootstepsAudio.length);
+			
+		}while (newRunningFootstepsIndex === this.runningFootstepsIndex)
+		
+		this.runningFootstepsIndex = newRunningFootstepsIndex;
+
+		var footstepSoundId = cc.audioEngine.playEffect(this.runningFootstepsAudio[newRunningFootstepsIndex], false, .06);
+	},
+	
+	playLadderClimb()
+	{
+		var newLadderClimbIndex;
+		do {
+			newLadderClimbIndex = Math.floor(Math.random() * this.ladderClimbAudio.length);
+			
+		}while (newLadderClimbIndex === this.ladderClimbIndex)
+		
+		this.ladderClimbIndex = newLadderClimbIndex;
+
+		var footstepSoundId = cc.audioEngine.playEffect(this.ladderClimbAudio[newLadderClimbIndex], false, .06);
 	},
 	
 	getNextBoundingBox(position)

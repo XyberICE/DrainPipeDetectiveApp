@@ -231,5 +231,16 @@
       }
     }
   },
-  "events": []
+  "events": [
+    {
+      "frame": 0.16666666666666666,
+      "func": "playLadderClimb",
+      "params": []
+    },
+    {
+      "frame": 0.7333333333333333,
+      "func": "playLadderClimb",
+      "params": []
+    }
+  ]
 }
