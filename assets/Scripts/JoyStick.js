@@ -35,8 +35,8 @@ cc.Class({
 			default: null,
 			type: protagonistClass
 		},
-        JOYSTICK_RADIUS: 0,
-        THUMB_RADIUS: 0,
+        JOYSTICK_RADIUS: null,
+        THUMB_RADIUS: null,
 		kCenter: null,
 		isPressed: null,
 		velocity: null,
@@ -76,6 +76,7 @@ cc.Class({
         
         var distance = Math.sqrt(dx*dx + dy*dy);
         var angle = Math.atan2(dy,dx); // in radians
+		
         
         if (distance > this.JOYSTICK_RADIUS)
         {
@@ -92,7 +93,6 @@ cc.Class({
         }
         
         this.thumb.node.setPosition(point);
-        
         
         this.protagonistObject.moveProtagonist(this.velocity);
     },

@@ -11,13 +11,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>spriteSourceSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{1,1},{64,128}}</string>
+                <string>{{1,1},{96,128}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>Protagonist - WalkCycle0002.png</key>
             <dict>
@@ -26,13 +26,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>spriteSourceSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{131,1},{64,128}}</string>
+                <string>{{1,131},{96,128}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>Protagonist - WalkCycle0003.png</key>
             <dict>
@@ -41,13 +41,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>spriteSourceSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{261,1},{64,128}}</string>
+                <string>{{99,1},{96,128}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>Protagonist - WalkCycle0004.png</key>
             <dict>
@@ -56,11 +56,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>spriteSourceSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{391,1},{64,128}}</string>
+                <string>{{1,261},{96,128}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -71,13 +71,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>spriteSourceSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{1,67},{64,128}}</string>
+                <string>{{99,131},{96,128}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>Protagonist - WalkCycle0006.png</key>
             <dict>
@@ -86,13 +86,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>spriteSourceSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{131,67},{64,128}}</string>
+                <string>{{197,1},{96,128}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>Protagonist - WalkCycle0007.png</key>
             <dict>
@@ -101,13 +101,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>spriteSourceSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{261,67},{64,128}}</string>
+                <string>{{1,391},{96,128}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>Protagonist - WalkCycle0008.png</key>
             <dict>
@@ -116,13 +116,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>spriteSourceSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{1,133},{64,128}}</string>
+                <string>{{99,261},{96,128}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>Protagonist - WalkCycle0009.png</key>
             <dict>
@@ -131,13 +131,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>spriteSourceSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{131,133},{64,128}}</string>
+                <string>{{197,131},{96,128}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>Protagonist - WalkCycle0010.png</key>
             <dict>
@@ -146,13 +146,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>spriteSourceSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{261,133},{64,128}}</string>
+                <string>{{295,1},{96,128}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>Protagonist - WalkCycle0011.png</key>
             <dict>
@@ -161,11 +161,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>spriteSourceSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{391,131},{64,128}}</string>
+                <string>{{1,521},{96,128}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -176,13 +176,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>spriteSourceSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{1,199},{64,128}}</string>
+                <string>{{99,391},{96,128}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>Protagonist - WalkCycle0013.png</key>
             <dict>
@@ -191,13 +191,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>spriteSourceSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{131,199},{64,128}}</string>
+                <string>{{197,261},{96,128}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>Protagonist - WalkCycle0014.png</key>
             <dict>
@@ -206,13 +206,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>spriteSourceSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{261,199},{64,128}}</string>
+                <string>{{295,131},{96,128}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>Protagonist - WalkCycle0015.png</key>
             <dict>
@@ -221,13 +221,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>spriteSourceSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{1,265},{64,128}}</string>
+                <string>{{393,1},{96,128}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>Protagonist - WalkCycle0016.png</key>
             <dict>
@@ -236,13 +236,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>spriteSourceSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{131,265},{64,128}}</string>
+                <string>{{1,651},{96,128}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>Protagonist - WalkCycle0017.png</key>
             <dict>
@@ -251,13 +251,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>spriteSourceSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{261,265},{64,128}}</string>
+                <string>{{99,521},{96,128}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>Protagonist - WalkCycle0018.png</key>
             <dict>
@@ -266,11 +266,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>spriteSourceSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{391,261},{64,128}}</string>
+                <string>{{197,391},{96,128}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -281,13 +281,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>spriteSourceSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{1,331},{64,128}}</string>
+                <string>{{295,261},{96,128}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>Protagonist - WalkCycle0020.png</key>
             <dict>
@@ -296,13 +296,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>spriteSourceSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{131,331},{64,128}}</string>
+                <string>{{393,131},{96,128}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>Protagonist - WalkCycle0021.png</key>
             <dict>
@@ -311,13 +311,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>spriteSourceSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{261,331},{64,128}}</string>
+                <string>{{1,781},{96,128}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>Protagonist - WalkCycle0022.png</key>
             <dict>
@@ -326,13 +326,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>spriteSourceSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{1,397},{64,128}}</string>
+                <string>{{99,651},{96,128}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>Protagonist - WalkCycle0023.png</key>
             <dict>
@@ -341,13 +341,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>spriteSourceSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{131,397},{64,128}}</string>
+                <string>{{197,521},{96,128}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>Protagonist - WalkCycle0024.png</key>
             <dict>
@@ -356,13 +356,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>spriteSourceSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{261,397},{64,128}}</string>
+                <string>{{295,391},{96,128}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>Protagonist - WalkCycle0025.png</key>
             <dict>
@@ -371,11 +371,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>spriteSourceSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{391,391},{64,128}}</string>
+                <string>{{393,261},{96,128}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -386,13 +386,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>spriteSourceSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{1,463},{64,128}}</string>
+                <string>{{99,781},{96,128}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>Protagonist - WalkCycle0027.png</key>
             <dict>
@@ -401,11 +401,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>spriteSourceSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{131,463},{64,128}}</string>
+                <string>{{1,911},{96,128}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -416,13 +416,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>spriteSourceSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{261,463},{64,128}}</string>
+                <string>{{197,651},{96,128}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>Protagonist - WalkCycle0029.png</key>
             <dict>
@@ -431,13 +431,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>spriteSourceSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{1,529},{64,128}}</string>
+                <string>{{295,521},{96,128}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>Protagonist - WalkCycle0030.png</key>
             <dict>
@@ -446,13 +446,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>spriteSourceSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{131,529},{64,128}}</string>
+                <string>{{393,391},{96,128}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>Protagonist - WalkCycle0031.png</key>
             <dict>
@@ -461,13 +461,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>spriteSourceSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{261,529},{64,128}}</string>
+                <string>{{197,781},{96,128}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>Protagonist - WalkCycle0032.png</key>
             <dict>
@@ -476,13 +476,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>spriteSourceSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{391,521},{64,128}}</string>
+                <string>{{131,911},{96,128}}</string>
                 <key>textureRotated</key>
-                <false/>
+                <true/>
             </dict>
             <key>Protagonist - WalkCycle0033.png</key>
             <dict>
@@ -491,13 +491,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>spriteSourceSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{1,595},{64,128}}</string>
+                <string>{{295,651},{96,128}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>Protagonist - WalkCycle0034.png</key>
             <dict>
@@ -506,13 +506,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>spriteSourceSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{131,595},{64,128}}</string>
+                <string>{{393,521},{96,128}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>Protagonist - WalkCycle0035.png</key>
             <dict>
@@ -521,13 +521,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>spriteSourceSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{261,595},{64,128}}</string>
+                <string>{{295,781},{96,128}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>Protagonist - WalkCycle0036.png</key>
             <dict>
@@ -536,11 +536,11 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>spriteSourceSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{1,661},{64,128}}</string>
+                <string>{{261,911},{96,128}}</string>
                 <key>textureRotated</key>
                 <true/>
             </dict>
@@ -551,13 +551,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>spriteSourceSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{131,661},{64,128}}</string>
+                <string>{{393,651},{96,128}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
             <key>Protagonist - WalkCycle0038.png</key>
             <dict>
@@ -566,13 +566,13 @@
                 <key>spriteOffset</key>
                 <string>{0,0}</string>
                 <key>spriteSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>spriteSourceSize</key>
-                <string>{64,128}</string>
+                <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{261,661},{64,128}}</string>
+                <string>{{393,781},{96,128}}</string>
                 <key>textureRotated</key>
-                <true/>
+                <false/>
             </dict>
         </dict>
         <key>metadata</key>
@@ -586,9 +586,9 @@
             <key>realTextureFileName</key>
             <string>Protagonist.png</string>
             <key>size</key>
-            <string>{456,726}</string>
+            <string>{490,1008}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:28346693ca5ff83072978029b39f5f37:050c39e23035b4d29a2036899141bd6d:2ffd47eb79e458fb14aa4d198ce301ac$</string>
+            <string>$TexturePacker:SmartUpdate:89687fc132fd11b3a0e0bb823506c4cd:bcf5a3a8efdecf9370a363f15e95314a:2ffd47eb79e458fb14aa4d198ce301ac$</string>
             <key>textureFileName</key>
             <string>Protagonist.png</string>
         </dict>

@@ -4,7 +4,7 @@
     <dict>
         <key>frames</key>
         <dict>
-            <key>Protagonist - LadderUpCycle0001.png</key>
+            <key>Protagonist - RunCycle0001.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -19,7 +19,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>Protagonist - LadderUpCycle0002.png</key>
+            <key>Protagonist - RunCycle0002.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -34,22 +34,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>Protagonist - LadderUpCycle0003.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{96,128}</string>
-                <key>spriteSourceSize</key>
-                <string>{96,128}</string>
-                <key>textureRect</key>
-                <string>{{99,1},{96,128}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>Protagonist - LadderUpCycle0004.png</key>
+            <key>Protagonist - RunCycle0003.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -64,52 +49,7 @@
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>Protagonist - LadderUpCycle0005.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{96,128}</string>
-                <key>spriteSourceSize</key>
-                <string>{96,128}</string>
-                <key>textureRect</key>
-                <string>{{99,131},{96,128}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>Protagonist - LadderUpCycle0006.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{96,128}</string>
-                <key>spriteSourceSize</key>
-                <string>{96,128}</string>
-                <key>textureRect</key>
-                <string>{{197,1},{96,128}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>Protagonist - LadderUpCycle0007.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{96,128}</string>
-                <key>spriteSourceSize</key>
-                <string>{96,128}</string>
-                <key>textureRect</key>
-                <string>{{99,261},{96,128}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>Protagonist - LadderUpCycle0008.png</key>
+            <key>Protagonist - RunCycle0004.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -124,7 +64,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>Protagonist - LadderUpCycle0009.png</key>
+            <key>Protagonist - RunCycle0005.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -135,11 +75,11 @@
                 <key>spriteSourceSize</key>
                 <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{197,131},{96,128}}</string>
+                <string>{{99,1},{96,128}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>Protagonist - LadderUpCycle0010.png</key>
+            <key>Protagonist - RunCycle0006.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -150,11 +90,11 @@
                 <key>spriteSourceSize</key>
                 <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{295,1},{96,128}}</string>
+                <string>{{99,131},{96,128}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>Protagonist - LadderUpCycle0011.png</key>
+            <key>Protagonist - RunCycle0007.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -165,11 +105,11 @@
                 <key>spriteSourceSize</key>
                 <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{197,261},{96,128}}</string>
+                <string>{{99,261},{96,128}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>Protagonist - LadderUpCycle0012.png</key>
+            <key>Protagonist - RunCycle0008.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -184,7 +124,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>Protagonist - LadderUpCycle0013.png</key>
+            <key>Protagonist - RunCycle0009.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -195,11 +135,11 @@
                 <key>spriteSourceSize</key>
                 <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{295,131},{96,128}}</string>
+                <string>{{197,1},{96,128}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>Protagonist - LadderUpCycle0014.png</key>
+            <key>Protagonist - RunCycle0010.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -210,11 +150,11 @@
                 <key>spriteSourceSize</key>
                 <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{393,1},{96,128}}</string>
+                <string>{{197,131},{96,128}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>Protagonist - LadderUpCycle0015.png</key>
+            <key>Protagonist - RunCycle0011.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -225,11 +165,11 @@
                 <key>spriteSourceSize</key>
                 <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{295,261},{96,128}}</string>
+                <string>{{197,261},{96,128}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>Protagonist - LadderUpCycle0016.png</key>
+            <key>Protagonist - RunCycle0012.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -244,7 +184,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>Protagonist - LadderUpCycle0017.png</key>
+            <key>Protagonist - RunCycle0013.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -255,11 +195,11 @@
                 <key>spriteSourceSize</key>
                 <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{393,131},{96,128}}</string>
+                <string>{{295,1},{96,128}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>Protagonist - LadderUpCycle0018.png</key>
+            <key>Protagonist - RunCycle0014.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -270,11 +210,11 @@
                 <key>spriteSourceSize</key>
                 <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{491,1},{96,128}}</string>
+                <string>{{295,131},{96,128}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>Protagonist - LadderUpCycle0019.png</key>
+            <key>Protagonist - RunCycle0015.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -285,56 +225,11 @@
                 <key>spriteSourceSize</key>
                 <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{393,261},{96,128}}</string>
+                <string>{{295,261},{96,128}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>Protagonist - LadderUpCycle0020.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{96,128}</string>
-                <key>spriteSourceSize</key>
-                <string>{96,128}</string>
-                <key>textureRect</key>
-                <string>{{491,131},{96,128}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>Protagonist - LadderUpCycle0021.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{96,128}</string>
-                <key>spriteSourceSize</key>
-                <string>{96,128}</string>
-                <key>textureRect</key>
-                <string>{{589,1},{96,128}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>Protagonist - LadderUpCycle0022.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{96,128}</string>
-                <key>spriteSourceSize</key>
-                <string>{96,128}</string>
-                <key>textureRect</key>
-                <string>{{491,261},{96,128}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>Protagonist - LadderUpCycle0023.png</key>
+            <key>Protagonist - RunCycle0016.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -349,7 +244,7 @@
                 <key>textureRotated</key>
                 <true/>
             </dict>
-            <key>Protagonist - LadderUpCycle0024.png</key>
+            <key>Protagonist - RunCycle0017.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -360,11 +255,11 @@
                 <key>spriteSourceSize</key>
                 <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{589,131},{96,128}}</string>
+                <string>{{393,1},{96,128}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>Protagonist - LadderUpCycle0025.png</key>
+            <key>Protagonist - RunCycle0018.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -375,11 +270,11 @@
                 <key>spriteSourceSize</key>
                 <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{687,1},{96,128}}</string>
+                <string>{{393,131},{96,128}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>Protagonist - LadderUpCycle0026.png</key>
+            <key>Protagonist - RunCycle0019.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -390,11 +285,11 @@
                 <key>spriteSourceSize</key>
                 <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{589,261},{96,128}}</string>
+                <string>{{393,261},{96,128}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>Protagonist - LadderUpCycle0027.png</key>
+            <key>Protagonist - RunCycle0020.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -405,26 +300,11 @@
                 <key>spriteSourceSize</key>
                 <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{521,391},{96,128}}</string>
-                <key>textureRotated</key>
-                <true/>
-            </dict>
-            <key>Protagonist - LadderUpCycle0028.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{96,128}</string>
-                <key>spriteSourceSize</key>
-                <string>{96,128}</string>
-                <key>textureRect</key>
-                <string>{{687,131},{96,128}}</string>
+                <string>{{491,1},{96,128}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>Protagonist - LadderUpCycle0029.png</key>
+            <key>Protagonist - RunCycle0021.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -435,11 +315,11 @@
                 <key>spriteSourceSize</key>
                 <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{785,1},{96,128}}</string>
+                <string>{{491,131},{96,128}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
-            <key>Protagonist - LadderUpCycle0030.png</key>
+            <key>Protagonist - RunCycle0022.png</key>
             <dict>
                 <key>aliases</key>
                 <array/>
@@ -450,97 +330,7 @@
                 <key>spriteSourceSize</key>
                 <string>{96,128}</string>
                 <key>textureRect</key>
-                <string>{{687,261},{96,128}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>Protagonist - LadderUpCycle0031.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{96,128}</string>
-                <key>spriteSourceSize</key>
-                <string>{96,128}</string>
-                <key>textureRect</key>
-                <string>{{651,391},{96,128}}</string>
-                <key>textureRotated</key>
-                <true/>
-            </dict>
-            <key>Protagonist - LadderUpCycle0032.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{96,128}</string>
-                <key>spriteSourceSize</key>
-                <string>{96,128}</string>
-                <key>textureRect</key>
-                <string>{{785,131},{96,128}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>Protagonist - LadderUpCycle0033.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{96,128}</string>
-                <key>spriteSourceSize</key>
-                <string>{96,128}</string>
-                <key>textureRect</key>
-                <string>{{883,1},{96,128}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>Protagonist - LadderUpCycle0034.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{96,128}</string>
-                <key>spriteSourceSize</key>
-                <string>{96,128}</string>
-                <key>textureRect</key>
-                <string>{{785,261},{96,128}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>Protagonist - LadderUpCycle0035.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{96,128}</string>
-                <key>spriteSourceSize</key>
-                <string>{96,128}</string>
-                <key>textureRect</key>
-                <string>{{883,131},{96,128}}</string>
-                <key>textureRotated</key>
-                <false/>
-            </dict>
-            <key>Protagonist - LadderUpCycle0036.png</key>
-            <dict>
-                <key>aliases</key>
-                <array/>
-                <key>spriteOffset</key>
-                <string>{0,0}</string>
-                <key>spriteSize</key>
-                <string>{96,128}</string>
-                <key>spriteSourceSize</key>
-                <string>{96,128}</string>
-                <key>textureRect</key>
-                <string>{{883,261},{96,128}}</string>
+                <string>{{491,261},{96,128}}</string>
                 <key>textureRotated</key>
                 <false/>
             </dict>
@@ -554,13 +344,13 @@
             <key>premultiplyAlpha</key>
             <false/>
             <key>realTextureFileName</key>
-            <string>Protagonist_ClimbUpLadder.png</string>
+            <string>Protagonist_RunRight.png</string>
             <key>size</key>
-            <string>{980,488}</string>
+            <string>{588,488}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:bbfb4565baf0697bc1cf81244302e024:c0dc0b9c13fbe54b5edcae336ab37ac5:b50d178f719a0a7cc1d758102933e0fa$</string>
+            <string>$TexturePacker:SmartUpdate:2274c6e4f7b43edeee06337e505e3fe5:7c15dae8bdb9c933d5b6f24fc73223cd:cf6b43178525468647da9ed2a002b60d$</string>
             <key>textureFileName</key>
-            <string>Protagonist_ClimbUpLadder.png</string>
+            <string>Protagonist_RunRight.png</string>
         </dict>
     </dict>
 </plist>

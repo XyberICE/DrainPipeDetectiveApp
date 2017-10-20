@@ -4,16 +4,6 @@ cc.Class({
 	
 	 properties:
 	 {
-		 // foo: {
-		 // default: null,      // The default value will be used only when the component attaching
-		 //                           to a node for the first time
-		 //    url: cc.Texture2D,  // optional, default is typeof default
-		 //    serializable: true, // optional, default is true
-		 //    visible: true,      // optional, default is true
-		 //    displayName: 'Foo', // optional
-		 //    readonly: false,    // optional, default is false
-		 // },
-		 // ...
 		 protagonistObject:
 		 {
 			 default: null,
@@ -41,18 +31,29 @@ cc.Class({
 		
 		 switch (event.keyCode)
 		 {
+			 case 16: // ignore shift key
+				 break;
 			 case cc.KEY.d:
 			 case cc.KEY.right:
-				 velocity = cc.p(1, 0);
+			 	if(!window.event.shiftKey)
+					velocity = cc.p(0.5, 0);
+			 	else
+			 		velocity = cc.p(1, 0);		// Greater magnitude = running
 				 break;
+				 
 			 case cc.KEY.a:
 			 case cc.KEY.left:
-				 velocity = cc.p(-1, 0);
+				 if(!window.event.shiftKey)
+					 velocity = cc.p(-0.5, 0);
+				 else
+					 velocity = cc.p(-1, 0);		// Greater magnitude = running
 				 break;
+				 
 			 case cc.KEY.w:
 			 case cc.KEY.up:
 				 velocity = cc.p(0, 1);
 				 break;
+				 
 			 case cc.KEY.s:
 			 case cc.KEY.down:
 				 velocity = cc.p(0, -1);

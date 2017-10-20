@@ -21,6 +21,12 @@ cc.Class({
 			default: null,
 			type: cc.TiledMap
 		},
+		metaNode:
+		{
+			default: null,
+			type: cc.Node
+		},
+		metaLayer: null,
 		canvas:
 		{
 			default: null,
@@ -40,13 +46,14 @@ cc.Class({
 	 // use this for initialization
 	 onLoad()
 	 {
-	 	this.canvas.opacity = 0;
+	 	// this.canvas.opacity = 0;
 		// this.canvas.runAction(cc.sequence(
 		// 	 cc.fadeIn(3.0),
 		// 	 cc.callFunc(this.deferredOnLoad, this)
 		//  ));
 		
-		this.levelMap.getLayer("Meta").enabled = false;		// Hide non-graphic layers
+		this.metaLayer = this.levelMap.getLayer(this.metaNode.name);		// Get TMXLayer (using a cc.TMXLayer node type doesn't work)
+		
 		
 		this.startAudio();
 	 },
@@ -54,7 +61,6 @@ cc.Class({
 	onDestroy()
 	{
 	},
-	
 	
 	 	// called every frame
 	 update(dt)
@@ -100,7 +106,7 @@ cc.Class({
 	getPropertyforKeyAtPosition(position, propertyName)
 	{
 		var tileCoord = this.tileCoordForPosition(position);
-		var tileGID = this.levelMap.getLayer("Meta").getTileGIDAt(tileCoord);						//this.metaLayer.getTileGIDAt(tileCoord);
+		var tileGID = this.metaLayer.getTileGIDAt(tileCoord);											//this.levelMap.getLayer("Meta").getTileGIDAt(tileCoord);
 		var returnValue;
 		
 		if(tileGID)
@@ -111,7 +117,7 @@ cc.Class({
 				returnValue = tileProperties[propertyName];
 			}
 		}
-		return (typeof returnValue === 'undefined') ? false : returnValue;
+		return (typeof returnValue === 'undefined') ? (typeof returnValue !== 'undefined') : returnValue;
 	},
 	
 	tileCoordForPosition(position)
